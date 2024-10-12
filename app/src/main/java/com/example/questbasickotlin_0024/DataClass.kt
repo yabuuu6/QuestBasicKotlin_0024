@@ -1,5 +1,6 @@
 package com.example.questbasickotlin_0024
 
+
 //data class adalah class yang di gunakan untuk menyimpan data,
 //data class menyediakan fungsi untuk meng override fungsi equals(),hashCode(),dan toString(),
 //data class juga menyediakan fungsi Copy() untuk membuat salinan objek dengan beberapa perubahan
