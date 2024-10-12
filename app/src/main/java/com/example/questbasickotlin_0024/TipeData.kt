@@ -1,5 +1,6 @@
 package com.example.questbasickotlin_0024
 
+
 fun main() {
     //byte
     val byteValue: Byte = 10
