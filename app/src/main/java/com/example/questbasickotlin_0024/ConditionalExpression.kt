@@ -50,7 +50,6 @@ fun Perulangan() {
         println("car type $car")
     }
 
-
     var x = 1
     while(x <= 5) {
         println("perulangan ke-$x")
