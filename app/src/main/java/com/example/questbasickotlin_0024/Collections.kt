@@ -60,7 +60,6 @@ fun ContohSet(){
     println(shapesLocked)
 }
 
-
 //map adalah kumpulan data yang disusun dalam pasangan value
 //map bersifat unordered : artinya data yang di masukkan tidak memiliki posisi tertentu
 //map bersifat mutable dan read only : artinya data yang dimasukkan dapat di ubah dan tidak dapat di ubah
