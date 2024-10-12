@@ -9,7 +9,6 @@ fun main() {
     val shortValue: Short = 20
     println("Short: $shortValue")
 
-
     //int
 
     val intValue: Int = 30
