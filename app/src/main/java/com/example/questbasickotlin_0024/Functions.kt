@@ -35,7 +35,6 @@ fun withReturn(panjang: Int, lebar: Int): Int {
 }
 
 
-
 fun main() {
     withoutParameter()
     withParameter("ojan")
