@@ -15,4 +15,5 @@ fun main() {
 
     //prints the new value of the property: email
     println(contact.email)
+    
 }
