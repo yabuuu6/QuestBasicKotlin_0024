@@ -20,6 +20,7 @@ fun nullSafety() {
         println("inferredNonNUll is not null")
     }
 
+
     //safe call operator
     println(neverNull.length)//18
     println(nullable?.length)//null
